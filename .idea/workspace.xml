@@ -20,14 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3847dd0d-23d8-4b5e-accd-4c07ea53865a" name="Default Changelist" comment="struct">
-      <change afterPath="$PROJECT_DIR$/chapter02/src/struct_demo/struct_demo05.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/struct_demo/struct_demo06.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/struct_demo/struct_demo07.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/struct_demo/struct_demo08.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/struct_demo/struct_demo09.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/struct_demo/struct_demo10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/array01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/array02.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/array03.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/array04.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/array05.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/array06.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/array07.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/map01.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/src/struct_demo/struct_demo04.go" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/src/struct_demo/struct_demo04.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter02/src/struct_demo/struct_demo10.go" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/src/struct_demo/struct_demo10.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -285,13 +287,13 @@
     <state x="204" y="93" key="SettingsEditor/0.0.1440.900/1440.-157.1920.1057@0.0.1440.900" timestamp="1588042463663" />
     <state x="315" y="111" key="SettingsEditor/0.0.1440.900/1440.-180.1920.1080@0.0.1440.900" timestamp="1588058235006" />
     <state x="249" y="114" key="SettingsEditor/52.23.1388.877/1440.-157.1920.1057@52.23.1388.877" timestamp="1587700920852" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1588059298816">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1588064359470">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-180.1920.1080@0.0.1440.900" timestamp="1588059298816" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1587886005617">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-180.1920.1080@0.0.1440.900" timestamp="1588064359470" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1588130390558">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.-180.1920.1080@0.0.1440.900" timestamp="1587886005617" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.-180.1920.1080@0.0.1440.900" timestamp="1588130390558" />
   </component>
 </project>
